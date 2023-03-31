@@ -1,21 +1,38 @@
-### Hi there 👋
+### Hello Welcome to my Profile
 
 ### Adamo Jordán Figueroa Pérez
+
+
 
 ### Resume 
 https://adamofig.com/
 
 ### Main technologies 
 
-GCP, Python, Angular, JS.
+Mostly of my projects are built with the same technology, im very expert on these.
 
-### DataClouder
+* Google Cloud 
+* Python
+* Angular
+* TypeScript.
+
+
+### Some intereting projects that I made
+
+#### DataClouder
 
 My youtube chanel to talk about data and cloud 
 
 https://www.youtube.com/dataclouder
 
-### Twitter 
+
+#### Appingles.
+
+Repo is private but you can find the result here 
+appingles.com
+
+
+#### Twitter 
 https://twitter.com/dataclouder
 
 <!--
