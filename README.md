@@ -1,51 +1,71 @@
-### Hello Welcome to my Profile
+<div align="center">
+  
+# 👋 Welcome to my Profile!
+## Adamo Jordán Figueroa Pérez
+*Cloud & AI Engineer | Open Source Contributor | Tech Content Creator*
 
-### Adamo Jordán Figueroa Pérez
+[![Resume](https://img.shields.io/badge/Resume-adamofig.com-blue)](https://adamofig.com/)
+[![YouTube](https://img.shields.io/badge/YouTube-DataClouder-red)](https://www.youtube.com/dataclouder)
 
+</div>
 
+<table>
+<tr>
+<td width="50%">
 
-### Resume 
-https://adamofig.com/
+### 🛠️ Main Technologies
+I specialize in building robust cloud & AI solutions using:
 
-### Main technologies 
+- ☁️ Google Cloud Platform
+- 🐍 Python & Machine Learning
+- 🅰️ Angular
+- 📝 TypeScript
+- 🤖 Artificial Intelligence
+- 🔄 CI/CD & DevOps
 
-Mostly of my projects are built with the same technology, im very expert on these.
+### 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=adamofig&show_icons=true&theme=radical)
 
-* Google Cloud 
-* Python
-* Angular
-* TypeScript.
+</td>
+<td width="50%">
 
+### 🚀 Featured Projects
 
-### Some intereting projects that I made
+### 📺 DataClouder 
+- YouTube channel focused on data engineering and cloud computing
+- Building a community of data enthusiasts
+- Regular content on best practices and tutorials
+- [Visit Channel](https://www.youtube.com/dataclouder)
 
-#### DataClouder
+#### 🌟 Open Source
+- Maintaining some projects at [dataclouder-dev](https://github.com/dataclouder-dev)
+- Contributing to cloud & data engineering tools
+- Building developer-friendly solutions
 
-My youtube chanel to talk about data and cloud 
+#### 🗣️ Polilan
+- AI-powered language learning platform
+- Innovative approach to language acquisition
+- Visit [polilan.com](https://polilan.com) to try it out!
 
-https://www.youtube.com/dataclouder
+</td>
+</tr>
+</table>
 
+### 🤝 Let's Connect!
+- 💼 [Professional Resume](https://adamofig.com)
+- 🐦 [Twitter Not active](https://twitter.com/dataclouder)
+- 📺 [YouTube Tutorials](https://www.youtube.com/dataclouder)
+- 💻 [Open Source Projects](https://github.com/dataclouder-dev)
 
-#### Appingles.
+---
 
-Repo is private but you can find the result here 
-appingles.com
+<div align="center">
 
+*"Building the future powered by Google Cloud computing and AI"* 
 
-#### Twitter 
-https://twitter.com/dataclouder
+</div>
 
 <!--
-**adamofig/adamofig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hidden but useful badges and stats:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamofig&layout=compact)
 -->
