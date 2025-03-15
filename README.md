@@ -2,7 +2,7 @@
   
 # 👋 Welcome to my Profile!
 ## Adamo Jordán Figueroa Pérez
-*Cloud & AI Engineer | Open Source Contributor | Tech Content Creator*
+*Web Developer | Cloud & AI Engineer | Tech Content Creator*
 
 [![Resume](https://img.shields.io/badge/Resume-adamofig.com-blue)](https://adamofig.com/)
 [![YouTube](https://img.shields.io/badge/YouTube-DataClouder-red)](https://www.youtube.com/dataclouder)
@@ -52,7 +52,7 @@ I specialize in building robust cloud & AI solutions using:
 </table>
 
 ### 🤝 Let's Connect!
-- 💼 [Professional Resume](https://adamofig.com)
+- 💼 [Professional Resume](https://adamofig.com) sorry my page is down
 - 🐦 [Twitter Not active](https://twitter.com/dataclouder)
 - 📺 [YouTube Tutorials](https://www.youtube.com/dataclouder)
 - 💻 [Open Source Projects](https://github.com/dataclouder-dev)
@@ -61,7 +61,7 @@ I specialize in building robust cloud & AI solutions using:
 
 <div align="center">
 
-*"Building the future powered by Google Cloud computing and AI"* 
+*"Building things powered by Google Cloud computing and AI"* 
 
 </div>
 
